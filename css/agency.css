@@ -363,6 +363,14 @@ section h3.section-subheading {
     height:100vh;
   }
 
+  .pic {
+    width: 33%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+  }
+
   .btn-toggle{
     position:fixed;
     bottom:0;
@@ -446,6 +454,14 @@ section h3.section-subheading {
     padding-top:32px;
   }
 
+  .pic {
+    width: 24%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+  }
+
   .navbar-custom .nav li a {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
@@ -479,6 +495,15 @@ section h3.section-subheading {
     padding-top: 256px;
     padding-bottom: 200px;
   }
+
+  .pic {
+    width: 23%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+  }
+
 
   .navbar-custom .nav li a {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -521,6 +546,15 @@ section h3.section-subheading {
     padding-top: 196px;
     padding-bottom: 200px;
   }
+
+  .pic {
+    width: 23%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+  }
+
 
   .navbar-custom .nav li a {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -574,6 +608,15 @@ section h3.section-subheading {
         /* margin-top: 367px; */
 
   }
+
+  .pic {
+    width: 23%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+  }
+
   /*header .chapter {
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 40px;
@@ -623,6 +666,15 @@ section h3.section-subheading {
     margin-bottom: 50px;
   }
 
+  .pic {
+    width: 24%;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+  }
+
+
 }
 
 
@@ -634,6 +686,15 @@ section h3.section-subheading {
       height: 200px;
       margin-top: 120px;
 }
+
+.pic {
+  width: 18%;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  margin-top: 73px;
+}
+
 
 navbar-custom .nav li a {
   margin-right:517px;
@@ -1088,6 +1149,17 @@ overflow: auto;
 top: 0px;
 left: 0px;
 background: rgba(0, 0, 0, 0.7);
+}
+
+.tint2 {
+z-index: 1;
+height: 100%;
+width: 100%;
+/* position: fixed; */
+overflow: auto;
+top: 0px;
+left: 0px;
+background: rgba(0, 0, 0);
 }
 
 /*.raleway {
